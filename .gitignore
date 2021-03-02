@@ -1,2 +1,5 @@
 .idea/
 venv1/
+db.sqlite3
+
+blog/migrations/
